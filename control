@@ -1,0 +1,9 @@
+Package: com.zunda.findinghook
+Name: FindingHook
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Finding Hook!!
+Maintainer: zunda <zunda.pixel@gmail.com>
+Author: zunda <zunda.pixel@gmail.com>
+Section: Tweaks
